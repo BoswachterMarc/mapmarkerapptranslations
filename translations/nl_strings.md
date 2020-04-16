@@ -179,7 +179,7 @@ Failed to create new folder, it already exists
 ```
 translated (by human 👀) as:
 ```
-Nagelaten om nieuwe map te maken, het bestaat al
+Nieuwe map kan niet aangemaakt worden, deze bestaat al
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by human 👀) as:
 ```
-Nagelaten om de map te hernoemen, de naam van de bestemming al bestaat
+De naam van de map kan niet gewijzigd worden, de naam bestaat al
 ```
 
 
@@ -249,7 +249,7 @@ File imported successfully
 ```
 translated (by human 👀) as:
 ```
-Bestand geimporteerd
+Bestand met succes geimporteerd
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by human 👀) as:
 ```
-Je hebt niet-opgeslagen wijzigingen, wilt u hen te redden?
+Je hebt niet-opgeslagen wijzigingen, wilt u hen opslaan?
 ```
 
 
@@ -461,7 +461,7 @@ Map type
 ```
 translated (by human 👀) as:
 ```
-Kaart
+Kaart type
 ```
 
 
@@ -535,7 +535,7 @@ Rate it 5 stars :-)
 translated (by human 👀) as:
 ```
 Je van de app?
-Geef het een 5 sterren :-)
+Geef het 5 sterren :-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by human 👀) as:
 ```
-Map te wijzigen naar&#8230;
+Wijzig map naar&#8230;
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by human 👀) as:
 ```
-Pas kaart camera positie bij het begeleiden naar een marker locatie
+Pas kaart camera positie aan bij het begeleiden naar een marker locatie
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by human 👀) as:
 ```
-Houd het scherm op bij het begeleiden naar een marker locatie
+Houd het scherm aan bij het begeleiden naar een marker locatie
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by human 👀) as:
 ```
-Fout bij het starten interne task manager, app wordt nu afgesloten
+Fout bij het starten van interne task manager, app wordt nu afgesloten
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by human 👀) as:
 ```
-Er is een probleem met Google Play Services : het moet worden geinstalleerd, bijgewerkt of geactiveerd. Klik op OK om op te lossen.
+Er is een probleem met Google Play Services : het moet worden geinstalleerd, bijgewerkt of geactiveerd. Klik op OK om het op te lossen.
 ```
 
 
@@ -736,7 +736,7 @@ to the Play Store
 ```
 translated (by human 👀) as:
 ```
-OK neem me
+OK breng me
 naar de Play Store
 ```
 
@@ -749,7 +749,7 @@ gave a rating
 translated (by human 👀) as:
 ```
 Ik heb al
-gaf een rating
+een rating gegeven
 ```
 
 
@@ -801,7 +801,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by human 👀) as:
 ```
-Verplaats de kaart rond om uw marker waar je wilt plaatsen en klik op OK om het te plaatsen
+Verplaats de kaart rond om uw marker om deze te plaatsen waar je wilt en klik op OK
 ```
 
 
@@ -811,7 +811,7 @@ Imported marker
 ```
 translated (by human 👀) as:
 ```
-Geimporteerd marker
+Geimporteerde marker
 ```
 
 
@@ -921,7 +921,7 @@ FAQ/Help
 ```
 translated (by human 👀) as:
 ```
-FAQ / Help
+FAQ/Help
 ```
 
 
@@ -1081,7 +1081,7 @@ Display
 ```
 translated (by human 👀) as:
 ```
-Tonen
+Scherm
 ```
 
 
@@ -1281,7 +1281,7 @@ Alle markers en mappen
 ```
 translated (by human 👀) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Om de juiste noorden richting te krijgen voor het kompas, moet je je telefoon goed te kalibreren. &lt;br&gt; Om uw telefoon te kalibreren, beweeg het gewoon rond door het tekenen van een 8 . De verhuizing moet breed en herhaalde ongeveer 3 keer voor een betere efficiëntie. &lt;br&gt; U kunt u kalibreren telefoon door dit te doen op elk moment. &lt;/ b&gt; &lt;br&gt; De kalibratie heeft zijn beperkingen en misschien niet genoeg zijn &lt;br&gt; • grote metalen voorwerpen &lt;br&gt; • elektronische apparaten &lt;br&gt; • magneten &lt;br&gt; • de binnenkant van een auto / bus / trein / vliegtuig &lt;/ body&gt; &lt;/ html&gt;: naar het nabijgelegen storingen zoals tegen te gaan
+&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Om het juiste noorden te krijgen voor het kompas, moet je je telefoon goed kalibreren. &lt;br&gt; Om uw telefoon te kalibreren, beweeg deze in de vorm van een 8. De verhuizing moet ruim zijn en 3 keer herhaald worden voor een betere efficiëntie. &lt;br&gt; U kunt uw telefoob op elk moment kalibreren. &lt;/ b&gt; &lt;br&gt; De kalibratie heeft zijn beperkingen en kan onvoldoende zijn om interferentie te voorkomen met bv. &lt;br&gt; • grote metalen voorwerpen &lt;br&gt; • elektronische apparaten &lt;br&gt; • magneten &lt;br&gt; • de binnenkant van een auto / bus / trein / vliegtuig &lt;/ body&gt; &lt;/ html&gt;: 
 ```
 
 
@@ -1311,7 +1311,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by human 👀) as:
 ```
-Dank u voor uw donatie! Deze donatie badge geeft u toegang tot premium :-)
+Dank u voor uw donatie! Deze donatie badge geeft u toegang tot premium opties :-)
 ```
 
 
